@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "node-terminal",
+        "request": "launch",
+        "name": "TypeScript Debug",
+        "command": "npm start",
+        "sourceMaps": true
+       
+        
+      },
+      
+    ]
+  }
+   
+   
